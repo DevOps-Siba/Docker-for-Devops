@@ -1,1 +1,1 @@
-# Docker-for-Devops
+# This docker file for run Sample-Java-application
